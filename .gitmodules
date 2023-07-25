@@ -1,0 +1,12 @@
+[submodule "DaPe.DataAccess"]
+	path = DaPe.DataAccess
+	url = https://github.com/klmd/Edemy_Eshop.git
+[submodule "DaPe.Models"]
+	path = DaPe.Models
+	url = https://github.com/klmd/Edemy_Eshop.git
+[submodule "DaPe.Utility"]
+	path = DaPe.Utility
+	url = https://github.com/klmd/Edemy_Eshop.git
+[submodule "DaPe.Web"]
+	path = DaPe.Web
+	url = https://github.com/klmd/Edemy_Eshop.git
